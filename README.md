@@ -1,5 +1,5 @@
 
-# 🧠 MindRelief API
+# 🧠 OzSafe - Global Solution
 
 API RESTful desenvolvida com **ASP.NET Core 9** para gerenciamento de apoio psicológico remoto em situações de calamidade. A aplicação permite o cadastro de psicólogos e pacientes, além do agendamento de sessões, com persistência em banco de dados Oracle e documentação via Swagger.
 
@@ -152,5 +152,5 @@ MindReliefAPI/
 
 ## 👨‍💻 Desenvolvido por
 
-Gustavo Tonato, João Victor de Souza e Diogo Weyne  
+ Diogo Weyne, Gustavo Tonato Maia e João Victor de Souza  
 Para a disciplina **Advanced Business Development with .NET** - FIAP
